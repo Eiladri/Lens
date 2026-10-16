@@ -4,6 +4,9 @@ Lens is a photography-themed sidebar navigation mini-project created as part of 
 
 The purpose of this project was to practise, apply, and revise the HTML and CSS concepts I have learned.
 
+## https://lens-mini-project.netlify.app
+(You can view the website here!!)
+
 ## About the Project
 
 The project features a photography background with a sidebar navigation menu that opens and closes using HTML and CSS, without JavaScript.
